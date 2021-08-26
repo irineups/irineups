@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Cash collections management
+- 🔭 I’m currently working on Cash Collections Management
 - 🌱 I’m currently learning AI education
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
